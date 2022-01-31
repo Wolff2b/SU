@@ -7,7 +7,7 @@
 ### Description
 Sound's Utilities is a moderation bot for [Sound's World](https://discord.gg/sound). It features many things such as:
 * Full moderation suite
-* Automo
+* Automod
 * Antiraid
 * Autoresponses
 * Cards
